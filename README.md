@@ -28,11 +28,3 @@ Generate reports on various metrics such as ticket sales, bus occupancy, and ope
   
 Administrators have access to manage buses, drivers, schedules, and handle customer queries efficiently from a single dashboard.
 
-## Technologies Used
-
-Backend: ( Node.js, Python, Java .)
-Frontend: ( React, Angular, Vue.js.)
-Database: ( MySQL, MongoDB, PostgreSQL)
-Real-time Tracking: ( Google Maps API)
-Payment Gateway: (PayPal , globalpay)
-
