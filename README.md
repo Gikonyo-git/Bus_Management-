@@ -2,7 +2,7 @@
 
 The Bus Management System is designed to manage and streamline the operations of a bus service, improving both efficiency for management and the user experience for passengers. The system includes features such as scheduling, ticket booking, passenger management, real-time bus tracking, and reporting.
 
-Key Features
+##Key Features
 Scheduling
 Administrators can create and manage bus schedules, including setting routes, departure times, and service frequencies.
 
