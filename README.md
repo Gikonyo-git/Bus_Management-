@@ -30,14 +30,9 @@ Administrators have access to manage buses, drivers, schedules, and handle custo
 
 ## Technologies Used
 
-Backend: (e.g., Node.js, Python, Java, etc.)
-Frontend: (e.g., React, Angular, Vue.js, etc.)
-Database: (e.g., MySQL, MongoDB, PostgreSQL, etc.)
-Real-time Tracking: (e.g., Google Maps API, OpenStreetMap, etc.)
-Payment Gateway: (e.g., PayPal, Stripe, etc.)
-Other: (e.g., Redis for caching, RabbitMQ for messaging, etc.)
-Setup Instructions
-Prerequisites
-Node.js or relevant backend environment
-Database (e.g., MySQL, MongoDB)
-Google Maps API key for real-time bus tracking (if applicable)
+Backend: ( Node.js, Python, Java .)
+Frontend: ( React, Angular, Vue.js.)
+Database: ( MySQL, MongoDB, PostgreSQL)
+Real-time Tracking: ( Google Maps API)
+Payment Gateway: (PayPal , globalpay)
+
